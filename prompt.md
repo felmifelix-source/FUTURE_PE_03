@@ -23,3 +23,21 @@ Also generate:
 3. Internal linking strategy
 
 The content should be SEO-friendly, readable, and suitable for a business website.
+
+Prompt Logic
+
+* Defines the business type (café)
+* Specifies the target audience
+* Includes a local SEO keyword
+* Requests structured content
+* Generates supporting SEO assets
+* Produces content suitable for business websites
+
+Expected Outcome
+
+Generate a complete SEO blog package, including:
+
+* Blog outline
+* Full blog article
+* Content cluster strategy
+* Internal linking plan
